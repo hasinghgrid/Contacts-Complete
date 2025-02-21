@@ -10,6 +10,10 @@ This is the **Contact Hyperskill** project, which focuses on managing contact in
 
 The project uses **JaCoCo** to generate a code coverage report. This report ensures that the unit tests cover the critical parts of the codebase.
 
+<img width="1510" alt="Screenshot 2025-02-21 at 9 48 05 AM" src="https://github.com/user-attachments/assets/3f36cd15-db25-448a-b539-c6a20cd74d7e" />
+
+
+
 ![Code Coverage](https://github.com/user-attachments/assets/4a7f3615-dfdf-44ab-9fc3-f8369a8d1361)
 
 
